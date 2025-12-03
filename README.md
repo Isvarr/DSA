@@ -12,3 +12,24 @@ The aim of this repository is to:
 
 ## 📂 Repository Structure
 
+```
+dsa-practice/
+│
+├── README.md
+├── .gitignore
+│
+├── arrays/
+│   ├── prefix-sum.cpp
+|   └── 
+├── strings/
+├── linked_list/
+├── stacks_queues/
+├── trees/
+├── graphs/
+├── dynamic_programming/
+├── recursion_backtracking/
+├── search_sort/
+├── math/
+└── misc/
+```
+
